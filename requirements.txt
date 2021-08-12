@@ -1,0 +1,4 @@
+requests
+python2-nmap
+colorama
+termcolor
